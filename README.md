@@ -31,12 +31,13 @@ My expertise spans **backend (Python, Django, FastAPI)** and **frontend (React, 
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit yadav0112&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit yadav0112&layout=compact&theme=tokyonight)  
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohityadav0112&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=rohityadav0112&theme=radical" />
+</p>
 
 ## 🌐 Connect With Me  
 
