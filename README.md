@@ -42,7 +42,8 @@ My expertise spans **backend (Python, Django, FastAPI)** and **frontend (React, 
 ## 🌐 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohit-yadav-4a5004269/)  
-- 📧 Email: veerrjo9754@gmail.com  
+- 📧 Email: veerrjo9754@gmail.com
+- Code360:[Coding_Ninja_Profile](https://www.naukri.com/code360/profile/veerrjo)
 
 ---
 ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
