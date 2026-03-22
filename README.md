@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Yadav  
 
-💻 **Full Stack Developer | Python • Django • FastAPI • React • AWS**  
+💻 **Full Stack AI Developer | Python • Django • FastAPI • React • AWS • GenAI • LangChain • Langraph • RAG**  
 
 I’m a passionate **Full Stack Developer** with 2+ years of experience building scalable web applications, REST APIs, and cloud-native solutions.  
 My expertise spans **backend (Python, Django, FastAPI)** and **frontend (React, JavaScript)**, along with deploying and managing apps on **AWS**.  
